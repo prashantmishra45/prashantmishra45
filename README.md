@@ -155,8 +155,8 @@ Passionate about solving real-world problems through efficient and maintainable 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prashantmishra45&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=prashantmishra45&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -164,7 +164,7 @@ Passionate about solving real-world problems through efficient and maintainable 
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=prashantmishra45&style=for-the-badge">
 </p>
 
 ---

@@ -4,7 +4,7 @@
 <h3 align="center">💻 Software Developer | ⚙️ Java, Spring Boot & Full-Stack | 🚀 Open to Internship & SDE Opportunities</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=700&lines=Software+Development+Intern;Full-Stack+%26+Backend+Engineer;Building+Scalable+SaaS+Systems;Java+%2F+Spring+Boot+%2F+React;Event-Driven+Architecture+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=700&lines=Software+Development;Full-Stack+%26+Backend+Engineer;Building+Scalable+SaaS+Systems;Java+%2F+Spring+Boot+%2F+React;Event-Driven+Architecture+Enthusiast" />
 </p>
 
 <p align="center">
@@ -210,7 +210,7 @@ An open-source, documentation-driven AI operating assistant that converses, auto
 
 ## 🤝 Let's Connect
 
-🚀 **Open to Software Development Internship & Full-Time Opportunities**
+🚀 **Open to Software Development & Full-Time Opportunities**
 
 📍 Ranchi, India | 📧 prashantkumarmishra003@gmail.com | 📱 9508180354
 
